@@ -70,5 +70,3 @@ To clean and pre-process the dataset by removing errors, fixing inconsistent for
 
 ---
 
-## 🔗 Submission Link:
-[Paste your GitHub repository URL here]
